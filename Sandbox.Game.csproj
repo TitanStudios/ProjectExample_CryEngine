@@ -14,14 +14,14 @@
     <FileAlignment>512</FileAlignment>
     <UseMSBuildEngine>false</UseMSBuildEngine>
     <CryEngineLauncherPath>D:\CRYENGINE Launcher\Engines\crytek\cryengine-56\5.6.7\bin\win_x64\\GameLauncher.exe</CryEngineLauncherPath>
-    <CryEngineProjectPath>D:/Cryengine Projects/ProjectsExample/Game.cryproject</CryEngineProjectPath>
+    <CryEngineProjectPath>D:/Cryengine Projects/ProjectsExample/ProjectExample_CryEngine/Game.cryproject</CryEngineProjectPath>
     <CryEngineCommandArguments></CryEngineCommandArguments>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
     <DebugType>portable</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>D:/Cryengine Projects/ProjectsExample/bin</OutputPath>
+    <OutputPath>D:/Cryengine Projects/ProjectsExample/ProjectExample_CryEngine/bin</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -29,7 +29,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>none</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>D:/Cryengine Projects/ProjectsExample/bin</OutputPath>
+    <OutputPath>D:/Cryengine Projects/ProjectsExample/ProjectExample_CryEngine/bin</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
