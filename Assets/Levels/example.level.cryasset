@@ -1,4 +1,4 @@
-<AssetMetadata version="0" type="Level" guid="1494847f-f85b-0b3e-2b32-30aa994b9ada" source="" timestamp="1550744935">
+<AssetMetadata version="0" type="Level" guid="1494847f-f85b-0b3e-2b32-30aa994b9ada" source="" timestamp="1648524739">
  <Files>
   <File path="example/example.level"/>
  </Files>
@@ -18,16 +18,16 @@
   <Path>%engine%/engineassets/materials/material_default.mtl</Path>
   <Path>%engine%/engineassets/materials/material_terrain_default.mtl</Path>
   <Path>%engine%/engineassets/materials/water/wateroceanbottom.mtl</Path>
-  <Path>%engine%/engineassets/objects/editorprimitive.mtl</Path>
   <Path>%engine%/engineassets/objects/primitive_cube.cgf</Path>
   <Path>%engine%/engineassets/objects/primitive_sphere.cgf</Path>
   <Path>%engine%/engineassets/texturemsg/defaultnouvs.dds</Path>
   <Path>%engine%/engineassets/texturemsg/defaultsolids.mtl</Path>
   <Path>%engine%/engineassets/textures/skys/night/half_moon.dds</Path>
   <Path>%engine%/engineassets/textures/white.dds</Path>
-  <Path>engineassets/materials/sky/sky.mtl</Path>
+  <Path>editor/resourcecache/textures/cubemaps/example/environmentprobe1_cm.dds</Path>
+  <Path>editor/resourcecache/textures/cubemaps/example/environmentprobe1_cm_diff.dds</Path>
   <Path>engineassets/materials/water/ocean_default.mtl</Path>
-  <Path>libs/environmentpresets/example.env</Path>
+  <Path usageCount="1">libs/environmentpresets/example.env</Path>
   <Path>textures/cubemaps/example/environmentprobe1_cm.dds</Path>
   <Path>textures/cubemaps/example/environmentprobe1_cm_diff.dds</Path>
  </Dependencies>
